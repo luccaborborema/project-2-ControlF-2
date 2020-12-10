@@ -1,2 +1,20 @@
-# project-2-ControlF-2
-Project proposed by CESAR SCHOOL in the second semester of Computer Science course. The theme was "How to do food management at home",  with emphasis on uncontrolled purchasing and food spoiling.
+# project-1-check
+ Project proposed by CESAR School.
+
+Developed by:
+
+Afonso Henrique
+
+Lucca Borborema
+
+Isadora Candine
+
+Enrico Resigno
+
+Laura Ramos
+
+Liliane Barros
+
+Victor Miranda
+
+Vinicius da Mota
